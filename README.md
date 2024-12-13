@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/43267dc4-3a18-4f75-a695-7fd8e633d17f)# Title: The 22th Korean Undergraduate Computer Simulation Competition by the Korean Simulation Society <br/>
+# Title: The 22th Korean Undergraduate Computer Simulation Competition by the Korean Simulation Society <br/>
 ## Topic: Optimization of Foundry Fab Line Planning <br/>
 ## Period: 2024.07 - 2024.11 <br/>
 ## Prize: 4th <br/>
@@ -6,13 +6,14 @@
 ### Leader : <br/>
 ![#1589F0](https://placehold.co/15x15/1589F0/1589F0.png) Donggeun YEOM - Sungkyul Univ_Industrial Management Engineering <br/>
 ### Members : <br/>
-Donggeun YEOM - Sungkyul Univ_Industrial Management Engineering <br/>
-Donggeun YEOM - Sungkyul Univ_Industrial Management Engineering <br/>
+Donghui GWON - Sungkyul Univ_Industrial Management Engineering <br/>
+Juhyeon I - Sungkyul Univ_Industrial Management Engineering <br/>
 ### Announcement Document:<br/>
 ![공고](https://github.com/user-attachments/assets/d1c770fe-2ef5-4d43-ac60-5280b6180017)
 
 ### Certificate:
-![상](https://github.com/user-attachments/assets/4291ca20-fe22-4026-86ff-8062ef6a4526)
+![상](https://github.com/user-attachments/assets/08e713ef-30c0-4293-9183-b3bdffcdeee6)
+
 
 ### Summary Preview:<br/>
 (Model) 3 Zones<br/>
