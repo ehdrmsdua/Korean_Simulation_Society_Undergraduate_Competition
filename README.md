@@ -17,7 +17,7 @@ Juhyeon I - Sungkyul Univ_Industrial Management Engineering <br/>
 
 ### Summary Preview:<br/>
 (Model) 3 Zones<br/>
-(PPT) 5 Pages / 16 Pages<br/>
+(PPT) 6 Pages / 16 Pages<br/>
 
 ![스샷 오버뷰](https://github.com/user-attachments/assets/04248d34-fcf2-4298-b351-f715cd939e6f)
 ![스샷 대시보드](https://github.com/user-attachments/assets/2c1bdc50-b3be-4194-95ef-fc1f615beaf6)
