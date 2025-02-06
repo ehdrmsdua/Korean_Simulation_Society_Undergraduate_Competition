@@ -29,4 +29,6 @@ Juhyeon I - Sungkyul Univ_Industrial Management Engineering <br/>
 ![스샷1](https://github.com/user-attachments/assets/697d8fd0-9d18-4045-b92e-9570fe213ffe)
 ![스샷2](https://github.com/user-attachments/assets/4d0597cd-cca1-4bca-941f-71db1785d205)
 ![스샷3](https://github.com/user-attachments/assets/d6e533bb-7d74-4537-9a97-dc80183450f3)
-![스샷4](https://github.com/user-attachments/assets/87e5428a-92be-41a2-bec8-190b365fb4c8)
+![스샷3 5](https://github.com/user-attachments/assets/b5562450-4b90-4f92-a19c-5cd2c63eb1bc)
+![스샷5](https://github.com/user-attachments/assets/27440f55-f938-4119-80bd-5c9a06256608)
+
