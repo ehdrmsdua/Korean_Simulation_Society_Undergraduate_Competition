@@ -1,4 +1,4 @@
-# Title: The 22th Korean Undergraduate Computer Simulation Competition by the Korean Simulation Society <br/>
+# Title: The 22th Korean Undergraduate Computer Simulation Competition by the Korean Simulation Society <br/> 
 ## Topic: Optimization of Foundry Fab Line Planning <br/>
 ## Period: 2024.07 - 2024.11 <br/>
 ## Prize: 4th <br/>
